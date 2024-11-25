@@ -18,9 +18,6 @@
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        .titulo-sexto.color-acento-botones
-          h5 Figura 3.
-          span Síntesis temática del componente 
         .bgs.p-4.brad     
           figure
             img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
